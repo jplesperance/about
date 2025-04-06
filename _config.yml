@@ -105,6 +105,9 @@ projects:
     projects:
      - about 
      - jplesperance.github.io
+     - jplesperance
+     - certifications
+     - gitbook
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
