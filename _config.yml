@@ -40,7 +40,7 @@ about_me_description: Visionary cybersecurity and DevOps leader with a proven ab
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://linkedin.com/in/jesseplesperance
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -69,7 +69,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: false
+show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -103,8 +103,8 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-    # - repo1-to-be-excluded
-    # - repo2-to-be-excluded
+     - about 
+     - jplesperance.github.io
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
