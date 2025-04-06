@@ -52,7 +52,7 @@
     - tag: Architecture Security
     - tag: Kubernetes
     - tag: Gcloud Security
-  timeline-side: left
+  timeline-side: right
 
 - title: eBay
   title-url: https://ebay.com/
@@ -64,7 +64,7 @@
     - tag: HashiCorp Vault
     - tag: Cryptography
     - tag: Security Operations
-  timeline-side: right
+  timeline-side: left
 
 - title: Apixio
   title-url: https://apixio.com/
@@ -77,4 +77,4 @@
     - tag: HashiCorp Vault
     - tag: Ansible
     - tag: AWS Security
-  timeline-side: left
+  timeline-side: right
