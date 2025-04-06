@@ -4,8 +4,8 @@
       <div class="project neumorphism-card" data-aos="zoom-in-down">
         <div class="name-link-wrapper">
           <h3>{{project.name}}</h3>
+	  <h4>{{project.type}}
         </div>
-	<p class="project-desc">{{project.type}}</p>
         <p class="project-desc">{{project.descr}}</p>
         {% if project.demo %}
           <a class="highlight-link" href="https://{{project.demo}}" target="_blank" rel="noreferrer">
