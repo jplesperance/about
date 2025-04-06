@@ -72,7 +72,8 @@ projects_title: Projects
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
-
+show_memberships: true
+memberships_title: Organizations
 # CONTACT SECTION
 # show_contact_card:
 # > setting this to true, will display the Contact section
