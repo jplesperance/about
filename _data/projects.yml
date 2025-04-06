@@ -21,7 +21,7 @@
     - tag: Redis
 
 - name: Shad0wBridge
-  descr: "A command and control server.  Project is geared towards red teaming and penetration testing usage.""
+  descr: "A command and control server.  Project is geared towards red teaming and penetration testing usage."
   demo: jplesperance/shad0wbridge
   tags:
     - tag: Python
