@@ -3,9 +3,9 @@
     {% for project in site.data.memberships %}
       <div class="project neumorphism-card" data-aos="zoom-in-down">
         <div class="name-link-wrapper">
-	<h3>{{project.name}}</h3><br />
-	  <h4>{{project.type}}</h4>
+	<h3>{{project.name}}</h3>
         </div>
+	<h4>{{project.type}}</h4>
         <p class="project-desc">{{project.descr}}</p>
         {% if project.demo %}
           <a class="highlight-link" href="https://{{project.demo}}" target="_blank" rel="noreferrer">
