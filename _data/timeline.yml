@@ -78,6 +78,7 @@
     - tag: Ansible
     - tag: AWS Security
   timeline-side: right
+
 - title: HortonWorks
   title-url: https://cloudera.com/
   date: Nov 2012 - Jan 2015
@@ -88,4 +89,15 @@
     - tag: Network Security
     - tag: Physical Security
     - tag: Technical Operations
-  timeling-side: right
+  timeling-side: left
+
+- title: Appcelerator
+  title-url: https://appcelerator.com
+  date: May 2012 - Nov 2012
+  subtitle: Senior Software Engineer
+  tags:
+    - tag: Titanium
+    - tag: Mobile Development
+    - tag: iOS/Android
+    - tag: Zend Framework
+  timeline-side: left
