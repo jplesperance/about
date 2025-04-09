@@ -99,5 +99,69 @@
     - tag: Titanium
     - tag: Mobile Development
     - tag: iOS/Android
-    - tag: Zend Framework
+    - tag: ZendFramework
+  timeline-side: left
+
+- title: Ricoh EWS
+  title-url: https://ricoh-usa.com
+  date: May 2010 - Dec 2011
+  subtitle: Director, Software Engineering
+  tags:
+    - tag: API
+    - tag: SDK
+    - tag: AWS
+    - tag: Hybrid Cloud
+    - tag: Software Development
+  timeline-side: right
+
+- title: CBS Interactive
+  title-url: https://tv.com
+  date: Sep 2008 - May 2010
+  subtitle: Senior Software Engineer
+  tags:
+    - tag: Media Streaming
+    - tag: Community Platform
+    - tag: Video Processing
+  timeline-side: left
+
+- title: Zend Technologies
+  title-url: https://www.zend.com
+  date: May 2008 - Sep 2008
+  subtitle: Consultant
+  tags:
+    - tag: Unit Testing
+    - tag: ZendFramework
+    - tag: PHP
+    - tag: Application Architecture
+    - tag: Training
+  timeline-side: right
+
+- title: Pickspal
+  title-url: https://pickspal.com
+  date: Nov 2007 - May 2008
+  subtitle: Director, Technology
+  tags:
+    - tag: Facebook
+    - tag: Sports
+    - tag: Sports Wagers
+    - tag: Sports related contests
+  timeline-side: left
+
+- title: VMWare
+  title-url: https://vmware.com
+  date: Nov 2006 - Nov 2007
+  subtitle: Senior Software Engineer
+  tags:
+    - tag: VMWare Technical Network
+    - tag: Virtual Appliance Marketplace
+  timeline-side: right
+
+- title: Symantec
+  title-url: https://symantec.com
+  date: Jun 2006 - Oct 2006
+  subtitle: Senior Web Developer
+  tags:
+    - tag: JSP
+    - tag: Java
+    - tag: Online Activation
   timeline-side: left
