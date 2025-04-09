@@ -78,3 +78,14 @@
     - tag: Ansible
     - tag: AWS Security
   timeline-side: right
+- title: HortonWorks
+  title-url: https://cloudera.com/
+  date: Nov 2012 - Jan 2015
+  subtitle: IT Operations Manager
+  tags:
+    - tag: Hadoop
+    - tag: Data Centers
+    - tag: Network Security
+    - tag: Physical Security
+    - tag: Technical Operations
+  timeling-side: right
